@@ -1,0 +1,3 @@
+﻿  codecpp.cpp
+D:\VS projects\Testingfirstlesson\laba\codecpp.cpp(35,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba.vcxproj -> D:\VS projects\Testingfirstlesson\laba\x64\Debug\laba.exe
