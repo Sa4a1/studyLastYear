@@ -1,3 +1,3 @@
 ﻿  code.cpp
-D:\VS projects\Testingfirstlesson\secontest\code.cpp(19,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  secontest.vcxproj -> D:\VS projects\Testingfirstlesson\secontest\x64\Debug\secontest.exe
+D:\VS projects\Testingfirstlesson\Тестирование\secontest\code.cpp(19,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  secontest.vcxproj -> D:\VS projects\Testingfirstlesson\Тестирование\secontest\x64\Debug\secontest.exe

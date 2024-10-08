@@ -1,1 +1,2 @@
 D:\VS projects\Testingfirstlesson\secontest\x64\Debug\secontest.exe
+D:\VS projects\Testingfirstlesson\Тестирование\secontest\x64\Debug\secontest.exe

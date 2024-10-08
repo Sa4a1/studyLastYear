@@ -4,7 +4,7 @@ using namespace std;
 
 bool isTriangelReal(float sideA, float sideB, float sideC)
 {
-	if (sideA < sideB + sideC || sideC < sideA + sideB || sideB < sideA + sideC) return true;
+	if (sideA < sideB + sideC && sideC < sideA + sideB && sideB < sideA + sideC) return true;
 	else return false;
 }
 
