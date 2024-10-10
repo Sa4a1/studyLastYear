@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TrainRecordActivity">
+
+    <RadioButton
+        android:id="@+id/PhisTraning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Общая физическая подготовка"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.053"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="61dp" />
+
+    <RadioButton
+        android:id="@+id/GameTraining"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Игровая"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.027"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="116dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
