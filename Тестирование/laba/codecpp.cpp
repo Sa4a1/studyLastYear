@@ -40,13 +40,17 @@ void main()
     if (cin.fail()) cout << "Был введен символ\n"; 
 	else 
 	{
-		p = (a + b + c) / 2;
-		square = sqrt(p * (p - a) * (p - b) * (p - c));
-		if (a > 0 && b > 0 && c > 0 && isTriangelReal(a, b, c)) 
+		if (a > 50 || b > 50 || c > 50) cout << "Вы вышли за верхнюю границу предела значений"; 
+		else
 		{
-			cout << "Площадь треугольника:" << square << endl;
-			triangelCheker(a, b, c);
+			p = (a + b + c) / 2;
+			square = sqrt(p * (p - a) * (p - b) * (p - c));
+			if (a > 0 && b > 0 && c > 0 && isTriangelReal(a, b, c))
+			{
+				cout << "Площадь треугольника:" << square << endl;
+				triangelCheker(a, b, c);
+			}
+			else cout << "Треугольник не сущетсвует";
 		}
-		else cout << "Треугольник не сущетсвует";
 	}
 }
