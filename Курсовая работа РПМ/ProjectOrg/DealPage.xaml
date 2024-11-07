@@ -1,0 +1,74 @@
+﻿<Page x:Class="ProjectOrg.DealPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProjectOrg"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="900"
+      Title="DealPage">
+
+    <Grid>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <TextBox Name="SearchTxt" Width="300" Height="25" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="64,0,0,0" TextChanged="SearchTxt_TextChanged"/>
+        <ComboBox Name="SortBox" Width="210" Height="20" Margin="160,0,0,0" Grid.Row="0" SelectionChanged="SortBox_SelectionChanged">
+            <TextBlock Text ="Без сортировки"/>
+            <TextBlock Text ="Дате завершения(возрастание)"/>
+            <TextBlock Text = "Дате завершения(убывание)"/>
+                       
+        </ComboBox>
+        <ComboBox Name="FiltBox" Width="230" Height="20" Margin="630,0,0,0" Grid.Row="0" SelectionChanged="FiltBox_SelectionChanged">
+            <TextBlock Text ="Без фильтра"/>
+            <TextBlock Text ="Отдел водоснабжения и канализации"/>
+            <TextBlock Text ="административно-хозяйственный отдел"/>
+            <TextBlock Text ="отдел информационного обеспечения"/>
+            <TextBlock Text ="отдел выдачи проектов "/>
+            <TextBlock Text = "Отдел ген планов и транспорта"/>
+        </ComboBox>
+
+        <ListView Name="DesingWorkListView" Grid.Row="1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.RowDefinitions >
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <WrapPanel Grid.Column="1" Grid.Row="0" VerticalAlignment="Center" Orientation="Horizontal">
+                            <TextBlock Text="Номер договора" FontSize="30" />
+                            <TextBlock Text="{Binding dealID}"/>
+                        </WrapPanel>
+
+                        <WrapPanel Grid.Column="1" Grid.Row="1"  Orientation="Horizontal">
+                            <TextBlock Text="Дата начала работ: "/>
+                            <TextBlock Text ="{Binding StartDate}"/>
+                        </WrapPanel>
+
+                        <WrapPanel Grid.Column="1" Grid.Row="2"  Orientation="Horizontal">
+                            <TextBlock Text="Дата конца работ: "/>
+                            <TextBlock Text ="{Binding EndDate}"/>
+                        </WrapPanel>
+
+                        <WrapPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal" >
+                            <TextBlock Text="Отдел - исполнитель: "/>
+                            <TextBlock Text="{Binding DepartmentName}"/>
+                        </WrapPanel>
+                        
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>

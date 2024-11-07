@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aec456e033cb4b3d9d812862a5f2e7cd" Name="Diagram1">
+        <EntityTypeShape EntityType="ProjectOranizationDBModel.Deal" Width="1.5" PointX="5.25" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectOranizationDBModel.Department" Width="1.5" PointX="5.25" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectOranizationDBModel.DesingWork" Width="1.5" PointX="7.5" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectOranizationDBModel.Gender" Width="1.5" PointX="0.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectOranizationDBModel.JobTitles" Width="1.5" PointX="0.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectOranizationDBModel.Organization" Width="1.5" PointX="3" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectOranizationDBModel.OrgType" Width="1.5" PointX="0.75" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectOranizationDBModel.sysdiagrams" Width="1.5" PointX="2.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectOranizationDBModel.Workers" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="ProjectOranizationDBModel.FK_Deal_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectOranizationDBModel.FK_DesingWork_Deal" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectOranizationDBModel.FK_Department_Workers" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectOranizationDBModel.FK_DesingWork_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectOranizationDBModel.FK_Workers_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectOranizationDBModel.FK_Workers_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectOranizationDBModel.FK_Workers_JobTitles" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectOranizationDBModel.FK_Organization_OrgType" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

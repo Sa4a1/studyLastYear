@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjectOranizationDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Deal">
+    <Key>
+      <PropertyRef Name="DealID" />
+    </Key>
+    <Property Name="DealID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RegistrationDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="OrganizationID" Type="Int32" Nullable="false" />
+    <Property Name="Cost" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <NavigationProperty Name="Organization" Relationship="Self.FK_Deal_Organization" FromRole="Deal" ToRole="Organization" />
+    <NavigationProperty Name="DesingWork" Relationship="Self.FK_DesingWork_Deal" FromRole="Deal" ToRole="DesingWork" />
+  </EntityType>
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="DepartmentID" />
+    </Key>
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DepartmentName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Floor" Type="Int32" />
+    <Property Name="Phone" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DepartmentHeadID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Workers" Relationship="Self.FK_Department_Workers" FromRole="Department" ToRole="Workers" />
+    <NavigationProperty Name="DesingWork" Relationship="Self.FK_DesingWork_Department" FromRole="Department" ToRole="DesingWork" />
+    <NavigationProperty Name="Workers1" Relationship="Self.FK_Workers_Department" FromRole="Department" ToRole="Workers" />
+  </EntityType>
+  <EntityType Name="DesingWork">
+    <Key>
+      <PropertyRef Name="DesignWorkID" />
+    </Key>
+    <Property Name="DesignWorkID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StartDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="EndDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="dealID" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Deal" Relationship="Self.FK_DesingWork_Deal" FromRole="DesingWork" ToRole="Deal" />
+    <NavigationProperty Name="Department" Relationship="Self.FK_DesingWork_Department" FromRole="DesingWork" ToRole="Department" />
+  </EntityType>
+  <EntityType Name="Gender">
+    <Key>
+      <PropertyRef Name="GenderCode" />
+    </Key>
+    <Property Name="GenderCode" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="GenderName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Workers" Relationship="Self.FK_Workers_Gender" FromRole="Gender" ToRole="Workers" />
+  </EntityType>
+  <EntityType Name="JobTitles">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="JobTitle" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Workers" Relationship="Self.FK_Workers_JobTitles" FromRole="JobTitles" ToRole="Workers" />
+  </EntityType>
+  <EntityType Name="Organization">
+    <Key>
+      <PropertyRef Name="OrganizationID" />
+    </Key>
+    <Property Name="OrganizationID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ActivityType" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Country" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Street" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="House" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DirectorName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DirectorSurname" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DirectorPatronymic" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Type" Type="Int32" />
+    <NavigationProperty Name="Deal" Relationship="Self.FK_Deal_Organization" FromRole="Organization" ToRole="Deal" />
+    <NavigationProperty Name="OrgType" Relationship="Self.FK_Organization_OrgType" FromRole="Organization" ToRole="OrgType" />
+  </EntityType>
+  <EntityType Name="OrgType">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Type" Type="String" MaxLength="3" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Organization" Relationship="Self.FK_Organization_OrgType" FromRole="OrgType" ToRole="Organization" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Workers">
+    <Key>
+      <PropertyRef Name="WorkerID" />
+    </Key>
+    <Property Name="WorkerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Surname" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Patronymic" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="JobID" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <Property Name="GenderCode" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Adress" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="BirthDayDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Phone" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Department" Relationship="Self.FK_Department_Workers" FromRole="Workers" ToRole="Department" />
+    <NavigationProperty Name="Department1" Relationship="Self.FK_Workers_Department" FromRole="Workers" ToRole="Department" />
+    <NavigationProperty Name="Gender" Relationship="Self.FK_Workers_Gender" FromRole="Workers" ToRole="Gender" />
+    <NavigationProperty Name="JobTitles" Relationship="Self.FK_Workers_JobTitles" FromRole="Workers" ToRole="JobTitles" />
+  </EntityType>
+  <Association Name="FK_Deal_Organization">
+    <End Role="Organization" Type="Self.Organization" Multiplicity="1" />
+    <End Role="Deal" Type="Self.Deal" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Organization">
+        <PropertyRef Name="OrganizationID" />
+      </Principal>
+      <Dependent Role="Deal">
+        <PropertyRef Name="OrganizationID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DesingWork_Deal">
+    <End Role="Deal" Type="Self.Deal" Multiplicity="1" />
+    <End Role="DesingWork" Type="Self.DesingWork" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Deal">
+        <PropertyRef Name="DealID" />
+      </Principal>
+      <Dependent Role="DesingWork">
+        <PropertyRef Name="dealID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Department_Workers">
+    <End Role="Workers" Type="Self.Workers" Multiplicity="1" />
+    <End Role="Department" Type="Self.Department" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Workers">
+        <PropertyRef Name="WorkerID" />
+      </Principal>
+      <Dependent Role="Department">
+        <PropertyRef Name="DepartmentHeadID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DesingWork_Department">
+    <End Role="Department" Type="Self.Department" Multiplicity="1" />
+    <End Role="DesingWork" Type="Self.DesingWork" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department">
+        <PropertyRef Name="DepartmentID" />
+      </Principal>
+      <Dependent Role="DesingWork">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Workers_Department">
+    <End Role="Department" Type="Self.Department" Multiplicity="1" />
+    <End Role="Workers" Type="Self.Workers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department">
+        <PropertyRef Name="DepartmentID" />
+      </Principal>
+      <Dependent Role="Workers">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Workers_Gender">
+    <End Role="Gender" Type="Self.Gender" Multiplicity="1" />
+    <End Role="Workers" Type="Self.Workers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Gender">
+        <PropertyRef Name="GenderCode" />
+      </Principal>
+      <Dependent Role="Workers">
+        <PropertyRef Name="GenderCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Workers_JobTitles">
+    <End Role="JobTitles" Type="Self.JobTitles" Multiplicity="1" />
+    <End Role="Workers" Type="Self.Workers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="JobTitles">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Workers">
+        <PropertyRef Name="JobID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Organization_OrgType">
+    <End Role="OrgType" Type="Self.OrgType" Multiplicity="0..1" />
+    <End Role="Organization" Type="Self.Organization" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OrgType">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Organization">
+        <PropertyRef Name="Type" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ProjectOranizationDBEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Deal" EntityType="Self.Deal" />
+    <EntitySet Name="Department" EntityType="Self.Department" />
+    <EntitySet Name="DesingWork" EntityType="Self.DesingWork" />
+    <EntitySet Name="Gender" EntityType="Self.Gender" />
+    <EntitySet Name="JobTitles" EntityType="Self.JobTitles" />
+    <EntitySet Name="Organization" EntityType="Self.Organization" />
+    <EntitySet Name="OrgType" EntityType="Self.OrgType" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Workers" EntityType="Self.Workers" />
+    <AssociationSet Name="FK_Deal_Organization" Association="Self.FK_Deal_Organization">
+      <End Role="Organization" EntitySet="Organization" />
+      <End Role="Deal" EntitySet="Deal" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DesingWork_Deal" Association="Self.FK_DesingWork_Deal">
+      <End Role="Deal" EntitySet="Deal" />
+      <End Role="DesingWork" EntitySet="DesingWork" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Department_Workers" Association="Self.FK_Department_Workers">
+      <End Role="Workers" EntitySet="Workers" />
+      <End Role="Department" EntitySet="Department" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DesingWork_Department" Association="Self.FK_DesingWork_Department">
+      <End Role="Department" EntitySet="Department" />
+      <End Role="DesingWork" EntitySet="DesingWork" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Workers_Department" Association="Self.FK_Workers_Department">
+      <End Role="Department" EntitySet="Department" />
+      <End Role="Workers" EntitySet="Workers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Workers_Gender" Association="Self.FK_Workers_Gender">
+      <End Role="Gender" EntitySet="Gender" />
+      <End Role="Workers" EntitySet="Workers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Workers_JobTitles" Association="Self.FK_Workers_JobTitles">
+      <End Role="JobTitles" EntitySet="JobTitles" />
+      <End Role="Workers" EntitySet="Workers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Organization_OrgType" Association="Self.FK_Organization_OrgType">
+      <End Role="OrgType" EntitySet="OrgType" />
+      <End Role="Organization" EntitySet="Organization" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
