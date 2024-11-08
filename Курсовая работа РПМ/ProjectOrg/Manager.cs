@@ -9,6 +9,6 @@ namespace ProjectOrg
 {
     internal class Manager
     {
-        Frame MainFrame { get; set; }
+        public static Frame Frame { get; set; }
     }
 }

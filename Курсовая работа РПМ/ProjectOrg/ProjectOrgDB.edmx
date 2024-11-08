@@ -33,6 +33,7 @@
           <Property Name="EndDate" Type="date" Nullable="false" />
           <Property Name="dealID" Type="int" Nullable="false" />
           <Property Name="DepartmentID" Type="int" Nullable="false" />
+          <Property Name="Image" Type="nvarchar" MaxLength="255" />
         </EntityType>
         <EntityType Name="Gender">
           <Key>
@@ -274,6 +275,7 @@
           <Property Name="EndDate" Type="DateTime" Nullable="false" Precision="0" />
           <Property Name="dealID" Type="Int32" Nullable="false" />
           <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+          <Property Name="Image" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <NavigationProperty Name="Deal" Relationship="Self.FK_DesingWork_Deal" FromRole="DesingWork" ToRole="Deal" />
           <NavigationProperty Name="Department" Relationship="Self.FK_DesingWork_Department" FromRole="DesingWork" ToRole="Department" />
         </EntityType>
@@ -445,7 +447,7 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <EntityContainer Name="ProjectOranizationDBEntities2" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="ProjectOranizationDBEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Deal" EntityType="Self.Deal" />
           <EntitySet Name="Department" EntityType="Self.Department" />
           <EntitySet Name="DesingWork" EntityType="Self.DesingWork" />
@@ -493,7 +495,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="Хранилище ProjectOranizationDBModelContainer" CdmEntityContainer="ProjectOranizationDBEntities2">
+        <EntityContainerMapping StorageEntityContainer="Хранилище ProjectOranizationDBModelContainer" CdmEntityContainer="ProjectOranizationDBEntities">
           <EntitySetMapping Name="Deal">
             <EntityTypeMapping TypeName="ProjectOranizationDBModel.Deal">
               <MappingFragment StoreEntitySet="Deal">
@@ -523,6 +525,7 @@
                 <ScalarProperty Name="EndDate" ColumnName="EndDate" />
                 <ScalarProperty Name="dealID" ColumnName="dealID" />
                 <ScalarProperty Name="DepartmentID" ColumnName="DepartmentID" />
+                <ScalarProperty Name="Image" ColumnName="Image" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

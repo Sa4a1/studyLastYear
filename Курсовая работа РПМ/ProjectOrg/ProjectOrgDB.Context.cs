@@ -12,26 +12,25 @@ namespace ProjectOrg
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
-    
-    public partial class ProjectOranizationDBEntities2 : DbContext
+    using System.Runtime.CompilerServices;
+
+    public partial class ProjectOranizationDBEntities : DbContext
     {
-        public ProjectOranizationDBEntities2()
-            : base("name=ProjectOranizationDBEntities2")
+        public ProjectOranizationDBEntities()
+            : base("name=ProjectOranizationDBEntities")
         {
         }
-    
+        private static ProjectOranizationDBEntities _context;
+        public static ProjectOranizationDBEntities GetContext()
+        {
+            if(_context == null) _context = new ProjectOranizationDBEntities();
+            return _context;
+        }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             throw new UnintentionalCodeFirstException();
         }
-
-        private static ProjectOranizationDBEntities2 _context;
-        public static ProjectOranizationDBEntities2 GetContext()
-        {
-            if (_context == null) _context = new ProjectOranizationDBEntities2();
-            return _context;
-        }
-
+    
         public virtual DbSet<Deal> Deal { get; set; }
         public virtual DbSet<Department> Department { get; set; }
         public virtual DbSet<DesingWork> DesingWork { get; set; }

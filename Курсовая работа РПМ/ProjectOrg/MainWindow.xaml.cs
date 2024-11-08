@@ -24,6 +24,7 @@ namespace ProjectOrg
         {
             InitializeComponent();
             MainFrame.Navigate(new DealPage ());
+            Manager.Frame = MainFrame;
         }
     }
 }

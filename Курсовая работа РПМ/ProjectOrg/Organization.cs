@@ -35,5 +35,14 @@ namespace ProjectOrg
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Deal> Deal { get; set; }
         public virtual OrgType OrgType { get; set; }
+
+        public string OrgTypeTitle
+        {
+            get
+            {
+                return OrgType.Type;
+            }
+        }
+
     }
 }

@@ -65,38 +65,45 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Deal.cs">
-      <DependentUpon>ProjectDB.tt</DependentUpon>
+      <DependentUpon>ProjectOrgDB.tt</DependentUpon>
     </Compile>
     <Compile Include="Department.cs">
-      <DependentUpon>ProjectDB.tt</DependentUpon>
+      <DependentUpon>ProjectOrgDB.tt</DependentUpon>
     </Compile>
     <Compile Include="DesingWork.cs">
-      <DependentUpon>ProjectDB.tt</DependentUpon>
+      <DependentUpon>ProjectOrgDB.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EditorPage.xaml.cs">
+      <DependentUpon>EditorPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Gender.cs">
-      <DependentUpon>ProjectDB.tt</DependentUpon>
+      <DependentUpon>ProjectOrgDB.tt</DependentUpon>
     </Compile>
     <Compile Include="JobTitles.cs">
-      <DependentUpon>ProjectDB.tt</DependentUpon>
+      <DependentUpon>ProjectOrgDB.tt</DependentUpon>
     </Compile>
     <Compile Include="Organization.cs">
-      <DependentUpon>ProjectDB.tt</DependentUpon>
+      <DependentUpon>ProjectOrgDB.tt</DependentUpon>
     </Compile>
     <Compile Include="OrgType.cs">
-      <DependentUpon>ProjectDB.tt</DependentUpon>
+      <DependentUpon>ProjectOrgDB.tt</DependentUpon>
     </Compile>
-    <Compile Include="ProjectDB.cs">
+    <Compile Include="ProjectOrgDB.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>ProjectDB.tt</DependentUpon>
+      <DependentUpon>ProjectOrgDB.tt</DependentUpon>
     </Compile>
     <Compile Include="sysdiagrams.cs">
-      <DependentUpon>ProjectDB.tt</DependentUpon>
+      <DependentUpon>ProjectOrgDB.tt</DependentUpon>
     </Compile>
     <Compile Include="Workers.cs">
-      <DependentUpon>ProjectDB.tt</DependentUpon>
+      <DependentUpon>ProjectOrgDB.tt</DependentUpon>
     </Compile>
     <Page Include="DealPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EditorPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -118,15 +125,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Manager.cs" />
-    <Compile Include="ProjectDB.Context.cs">
+    <Compile Include="ProjectOrgDB.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>ProjectDB.Context.tt</DependentUpon>
+      <DependentUpon>ProjectOrgDB.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="ProjectDB.Designer.cs">
+    <Compile Include="ProjectOrgDB.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>ProjectDB.edmx</DependentUpon>
+      <DependentUpon>ProjectOrgDB.edmx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
@@ -146,12 +153,12 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <None Include="packages.config" />
-    <EntityDeploy Include="ProjectDB.edmx">
+    <EntityDeploy Include="ProjectOrgDB.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>ProjectDB.Designer.cs</LastGenOutput>
+      <LastGenOutput>ProjectOrgDB.Designer.cs</LastGenOutput>
     </EntityDeploy>
-    <None Include="ProjectDB.edmx.diagram">
-      <DependentUpon>ProjectDB.edmx</DependentUpon>
+    <None Include="ProjectOrgDB.edmx.diagram">
+      <DependentUpon>ProjectOrgDB.edmx</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -165,17 +172,25 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ProjectDB.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>ProjectDB.edmx</DependentUpon>
-      <LastGenOutput>ProjectDB.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="ProjectDB.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>ProjectDB.edmx</DependentUpon>
-      <LastGenOutput>ProjectDB.cs</LastGenOutput>
-    </Content>
     <Resource Include="Resources\deal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ProjectOrgDB.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProjectOrgDB.edmx</DependentUpon>
+      <LastGenOutput>ProjectOrgDB.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="ProjectOrgDB.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProjectOrgDB.edmx</DependentUpon>
+      <LastGenOutput>ProjectOrgDB.cs</LastGenOutput>
+    </Content>
+    <Resource Include="Resources\1.png" />
+    <Resource Include="Resources\2.png" />
+    <Resource Include="Resources\3.png" />
+    <Resource Include="Resources\4.png" />
+    <Resource Include="Resources\process.png" />
+    <Resource Include="Resources\Work.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

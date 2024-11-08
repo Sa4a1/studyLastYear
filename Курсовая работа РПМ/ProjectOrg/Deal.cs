@@ -28,5 +28,21 @@ namespace ProjectOrg
         public virtual Organization Organization { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<DesingWork> DesingWork { get; set; }
+
+        public string OrgName
+        {
+            get
+            {
+                return Organization.Title;
+            }
+        }
+
+        public string OrgType
+        {
+            get
+            {
+                return Organization.OrgTypeTitle;
+            }
+        }
     }
 }

@@ -10,19 +10,31 @@
 
     <Grid>
         <Grid.RowDefinitions >
-            <RowDefinition Height="60"/>
+            <RowDefinition Height="90"/>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="30"/>
+            <RowDefinition Height="60"/>
         </Grid.RowDefinitions>
+        <StackPanel Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+            <TextBlock Text="Количество записей: " FontSize="15"/>
+            <TextBlock Name="TBCount" FontSize="15"/>
 
-        <TextBox Name="SearchTxt" Width="300" Height="25" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="64,0,0,0" TextChanged="SearchTxt_TextChanged"/>
-        <ComboBox Name="SortBox" Width="210" Height="20" Margin="160,0,0,0" Grid.Row="0" SelectionChanged="SortBox_SelectionChanged">
+        </StackPanel>
+        <Button Name="AddBtn" Width="200" Height="30" Content="Добавить запись" Grid.Row="2" HorizontalAlignment="Left" Click="AddBtn_Click"/>
+        <StackPanel Grid.Row="0" VerticalAlignment="Center">
+            <TextBlock Text="Поиск по номеру договора" Margin="64,0,0,0" FontSize="15"/>
+            <TextBox Name="SearchTxt" Width="300" Height="25" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="64,0,0,0" TextChanged="SearchTxt_TextChanged"/>
+        </StackPanel>
+        <StackPanel Grid.Row="0" VerticalAlignment="Center" Margin="200,0,0,0">
+            <TextBlock Text="Сортировка по дате завершения" FontSize="15" HorizontalAlignment="Center"/>
+            <ComboBox Name="SortBox" Width="210" Height="20" Grid.Row="0" SelectionChanged="SortBox_SelectionChanged">
             <TextBlock Text ="Без сортировки"/>
             <TextBlock Text ="Дате завершения(возрастание)"/>
-            <TextBlock Text = "Дате завершения(убывание)"/>
-                       
-        </ComboBox>
-        <ComboBox Name="FiltBox" Width="230" Height="20" Margin="630,0,0,0" Grid.Row="0" SelectionChanged="FiltBox_SelectionChanged">
+                <TextBlock Text = "Дате завершения(убывание)"/>
+            </ComboBox>
+        </StackPanel >
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Right" Margin="630,0,0,0">
+            <TextBlock Text="Фильрация по отделам" FontSize="15" Margin="40,0,0,0"/>
+            <ComboBox Name="FiltBox" Width="230" Height="20"  Grid.Row="0" SelectionChanged="FiltBox_SelectionChanged">
             <TextBlock Text ="Без фильтра"/>
             <TextBlock Text ="Отдел водоснабжения и канализации"/>
             <TextBlock Text ="административно-хозяйственный отдел"/>
@@ -30,8 +42,9 @@
             <TextBlock Text ="отдел выдачи проектов "/>
             <TextBlock Text = "Отдел ген планов и транспорта"/>
         </ComboBox>
+        </StackPanel>
 
-        <ListView Name="DesingWorkListView" Grid.Row="1">
+        <ListView Name="DesingWorkListView" Grid.Row="1" IsVisibleChanged="DesingWorkListView_IsVisibleChanged" d:ItemsSource="{d:SampleData ItemCount=5}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <Grid>
@@ -40,32 +53,54 @@
                             <RowDefinition Height="*"/>
                             <RowDefinition Height="*"/>
                             <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
                         </Grid.RowDefinitions>
                         <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100"/>
                             <ColumnDefinition Width="*"/>
-                            <ColumnDefinition Width="*"/>
+                            
                         </Grid.ColumnDefinitions>
 
                         <WrapPanel Grid.Column="1" Grid.Row="0" VerticalAlignment="Center" Orientation="Horizontal">
-                            <TextBlock Text="Номер договора" FontSize="30" />
-                            <TextBlock Text="{Binding dealID}"/>
-                        </WrapPanel>
-
-                        <WrapPanel Grid.Column="1" Grid.Row="1"  Orientation="Horizontal">
-                            <TextBlock Text="Дата начала работ: "/>
-                            <TextBlock Text ="{Binding StartDate}"/>
+                            <TextBlock Text="Номер договора: " FontSize="15" />
+                            <TextBlock Text="{Binding dealID}" FontSize ="15"/>
                         </WrapPanel>
 
                         <WrapPanel Grid.Column="1" Grid.Row="2"  Orientation="Horizontal">
-                            <TextBlock Text="Дата конца работ: "/>
-                            <TextBlock Text ="{Binding EndDate}"/>
+                            <TextBlock Text="Дата начала работ: "/>
+                            <TextBlock Text ="{Binding StartDate, StringFormat=\{0:d\}}"/>
                         </WrapPanel>
 
-                        <WrapPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal" >
+                        <WrapPanel Grid.Column="1" Grid.Row="3"  Orientation="Horizontal">
+                            <TextBlock Text="Дата конца работ: "/>
+                            <TextBlock Text ="{Binding EndDate,StringFormat=\{0:d\}}"/>
+                        </WrapPanel>
+
+                        <WrapPanel Grid.Row="4" Grid.Column="1" Orientation="Horizontal" >
                             <TextBlock Text="Отдел - исполнитель: "/>
                             <TextBlock Text="{Binding DepartmentName}"/>
                         </WrapPanel>
-                        
+                        <WrapPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal"  >
+                            <TextBlock Text="Заказчик: " FontSize ="15"/>
+                            <TextBlock Text="{Binding OrgType}" FontSize ="15"/>
+                            <TextBlock Text="{Binding OrgName }" FontSize ="15"/>
+                        </WrapPanel>
+                        <Image Grid.RowSpan="5" Width="90">
+                            <Image.Source>
+                            <Binding Path="Image">
+                                <Binding.TargetNullValue>
+                                    <ImageSource>
+                                        Resources\process.png
+                                    </ImageSource>
+                                </Binding.TargetNullValue>
+                            </Binding>
+                            </Image.Source>
+                        </Image>
+                        <StackPanel Grid.Column="1" Grid.RowSpan="4" Orientation="Horizontal" HorizontalAlignment="Right" Margin="400,0,0,0">
+                            <Button Name="EditBtn" Content="редактировать" Margin="2" Click="EditBtn_Click" Width="100" Height="20"/>
+                            <Button Name="DeleteBtn" Content="удалить" Margin="2" Click ="DeleteBtn_Click" Width="100" Height="20"/>
+                        </StackPanel>
+
                     </Grid>
                 </DataTemplate>
             </ListView.ItemTemplate>

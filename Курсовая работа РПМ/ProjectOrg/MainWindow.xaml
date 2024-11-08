@@ -11,6 +11,7 @@
             <RowDefinition Height="90"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
+        <Image Source="Resources\Work.png" HorizontalAlignment="Left"></Image>
         <TextBlock Text="Проектная организация" FontSize="36" HorizontalAlignment="Center" VerticalAlignment="Center" />
         <Frame Grid.Row="1" Name="MainFrame" NavigationUIVisibility="Hidden" />
     </Grid>

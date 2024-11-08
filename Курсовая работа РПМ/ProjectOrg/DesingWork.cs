@@ -11,13 +11,18 @@ namespace ProjectOrg
 {
     using System;
     using System.Collections.Generic;
-    using System.Linq;
 
     public partial class DesingWork
     {
         public int DesignWorkID { get; set; }
         public System.DateTime StartDate { get; set; }
         public System.DateTime EndDate { get; set; }
+        public int dealID { get; set; }
+        public int DepartmentID { get; set; }
+        public string Image { get; set; }
+
+        public virtual Deal Deal { get; set; }
+        public virtual Department Department { get; set; }
         public string DepartmentName
         {
             get
@@ -25,15 +30,20 @@ namespace ProjectOrg
                 return Department.DepartmentName;
             }
         }
-        public int dealID { get; set; }
-        public int DepartmentID { get; set; }
 
-
-
-        public virtual Deal Deal { get; set; }
-        public virtual Department Department { get; set; }
-
-      
-
+        public string OrgName
+        {
+            get
+            {
+                return Deal.OrgName;
+            }
+        }
+        public string OrgType
+        {
+            get
+            {
+                return Deal.OrgType;
+            }
+        }
     }
 }
