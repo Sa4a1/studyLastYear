@@ -52,7 +52,7 @@ namespace ProjectOrg
             if(FiltBox.SelectedIndex == 4) currentDesingWorks = currentDesingWorks.Where(p => (p.DepartmentID == 4)).ToList();
             if(FiltBox.SelectedIndex == 5) currentDesingWorks = currentDesingWorks.Where(p => (p.DepartmentID == 5)).ToList();
 
-            currentDesingWorks = currentDesingWorks.Where(p => (p.dealID.ToString().Contains(SearchTxt.Text))).ToList();
+            currentDesingWorks = currentDesingWorks.Where(p => (p.dealID.ToString().Contains(SearchTxt.Text) || p.OrgName.ToLower().Contains(SearchTxt.Text.ToLower()) )).ToList();
             int recCount = currentDesingWorks.Count;
             TBCount.Text = recCount.ToString();
             DesingWorkListView.ItemsSource = currentDesingWorks;
@@ -100,7 +100,7 @@ namespace ProjectOrg
             var selectedWork = (sender as Button).DataContext as DesingWork;
             if (selectedWork.EndDate > new DateTime(2015, 1, 1))
             {
-                MessageBox.Show("Запись не может быть удалена потому что данную работу закончили после первого января 2015-го года ");
+                MessageBox.Show("Запись не может быть удалена, потому что данную работу закончили после первого января 2015-го года ");
             }
             else
 

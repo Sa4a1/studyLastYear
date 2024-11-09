@@ -21,8 +21,8 @@
         </StackPanel>
         <Button Name="AddBtn" Width="200" Height="30" Content="Добавить запись" Grid.Row="2" HorizontalAlignment="Left" Click="AddBtn_Click"/>
         <StackPanel Grid.Row="0" VerticalAlignment="Center">
-            <TextBlock Text="Поиск по номеру договора" Margin="64,0,0,0" FontSize="15"/>
-            <TextBox Name="SearchTxt" Width="300" Height="25" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="64,0,0,0" TextChanged="SearchTxt_TextChanged"/>
+            <TextBlock Text="Поиск по номеру договора и названию заказчика" Margin="64,0,0,0" FontSize="15"/>
+            <TextBox Name="SearchTxt" Width="300" Height="25" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="64,0,0,0" TextChanged="SearchTxt_TextChanged"/>
         </StackPanel>
         <StackPanel Grid.Row="0" VerticalAlignment="Center" Margin="200,0,0,0">
             <TextBlock Text="Сортировка по дате завершения" FontSize="15" HorizontalAlignment="Center"/>
