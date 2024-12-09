@@ -93,6 +93,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ProjectOrgDB.tt</DependentUpon>
     </Compile>
+    <Compile Include="SortWorkers.cs" />
     <Compile Include="sysdiagrams.cs">
       <DependentUpon>ProjectOrgDB.tt</DependentUpon>
     </Compile>

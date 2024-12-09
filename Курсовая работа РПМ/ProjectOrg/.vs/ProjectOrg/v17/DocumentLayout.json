@@ -3,15 +3,47 @@
   "WorkspaceRootPath": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A286935-2D54-4B0E-9293-017E9FB5884D}|..\\UnitTestProject\\UnitTestProject.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0440\u043F\u043C\\unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA40B226-85D3-4683-8D49-BCF27167B3EB}|..\\SortTest\\SortTest.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0440\u043F\u043C\\sorttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\sortworkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:sortworkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\dealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:dealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0440\u043F\u043C\\projectorg\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\desingwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:desingwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\projectorgdb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:projectorgdb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\dealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:dealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\editorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:editorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\orgtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:orgtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -22,16 +54,8 @@
       "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\editorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:editorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\editorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:editorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\dealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:dealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -46,22 +70,6 @@
       "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:deal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\desingwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:desingwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\orgtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:orgtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\projectorgdb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:projectorgdb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\projectorgdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{8288E35D-BD61-4E98-A74A-79B9435CA24F}|ProjectOrg.csproj|solutionrelative:projectorgdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
@@ -69,7 +77,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -79,31 +87,56 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\UnitTestProject\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\UnitTestProject\\UnitTest1.cs",
-              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\UnitTestProject\\UnitTest1.cs*",
-              "RelativeToolTip": "..\\UnitTestProject\\UnitTest1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\SortTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\SortTest\\UnitTest1.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\SortTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\SortTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T18:44:58.812Z",
+              "WhenOpened": "2024-12-09T11:30:32.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
+              "Title": "Workers.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\Workers.cs",
+              "RelativeDocumentMoniker": "Workers.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\Workers.cs",
+              "RelativeToolTip": "Workers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:03:20.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortWorkers.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\SortWorkers.cs",
+              "RelativeDocumentMoniker": "SortWorkers.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\SortWorkers.cs",
+              "RelativeToolTip": "SortWorkers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:05:58.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "OrgType.cs",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\OrgType.cs",
               "RelativeDocumentMoniker": "OrgType.cs",
               "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\OrgType.cs",
               "RelativeToolTip": "OrgType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T16:04:05.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T16:04:05.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Organization.cs",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\Organization.cs",
               "RelativeDocumentMoniker": "Organization.cs",
@@ -111,12 +144,11 @@
               "RelativeToolTip": "Organization.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T15:51:44.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T15:51:44.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Deal.cs",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\Deal.cs",
               "RelativeDocumentMoniker": "Deal.cs",
@@ -124,74 +156,68 @@
               "RelativeToolTip": "Deal.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAASwCsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T15:50:53.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T15:50:53.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "DesingWork.cs",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\DesingWork.cs",
               "RelativeDocumentMoniker": "DesingWork.cs",
               "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\DesingWork.cs",
               "RelativeToolTip": "DesingWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T12:24:03.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T12:24:03.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "ProjectOrgDB.Context.cs",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\ProjectOrgDB.Context.cs",
               "RelativeDocumentMoniker": "ProjectOrgDB.Context.cs",
               "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\ProjectOrgDB.Context.cs",
               "RelativeToolTip": "ProjectOrgDB.Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T12:24:01.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T12:24:01.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ProjectOrgDB.edmx [Diagram1]",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\ProjectOrgDB.edmx",
               "RelativeDocumentMoniker": "ProjectOrgDB.edmx",
               "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\ProjectOrgDB.edmx [Diagram1]",
               "RelativeToolTip": "ProjectOrgDB.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-08T12:23:14.131Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-11-08T12:23:14.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "EditorPage.xaml",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\EditorPage.xaml",
               "RelativeDocumentMoniker": "EditorPage.xaml",
               "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\EditorPage.xaml",
               "RelativeToolTip": "EditorPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T17:14:52.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:14:52.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "DealPage.xaml",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\DealPage.xaml",
               "RelativeDocumentMoniker": "DealPage.xaml",
               "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\DealPage.xaml",
               "RelativeToolTip": "DealPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T15:36:53.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T15:36:53.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "EditorPage.xaml.cs",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\EditorPage.xaml.cs",
               "RelativeDocumentMoniker": "EditorPage.xaml.cs",
@@ -199,37 +225,34 @@
               "RelativeToolTip": "EditorPage.xaml.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAIwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:44:46.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DealPage.xaml.cs",
-              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\DealPage.xaml.cs",
-              "RelativeDocumentMoniker": "DealPage.xaml.cs",
-              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\DealPage.xaml.cs*",
-              "RelativeToolTip": "DealPage.xaml.cs*",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAcwGEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T16:00:02.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:44:46.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "DealPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\DealPage.xaml.cs",
+              "RelativeDocumentMoniker": "DealPage.xaml.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\DealPage.xaml.cs",
+              "RelativeToolTip": "DealPage.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwGMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:00:02.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
               "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T15:37:31.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T15:37:31.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "App.config",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -237,12 +260,11 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-05T15:37:22.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T15:37:22.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Manager.cs",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\Manager.cs",
               "RelativeDocumentMoniker": "Manager.cs",
@@ -250,24 +272,22 @@
               "RelativeToolTip": "Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:20:40.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T15:20:40.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T15:10:33.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T15:10:33.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0420\u041F\u041C\\ProjectOrg\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -275,8 +295,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAmwBYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:10:31.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T15:10:31.5Z"
             }
           ]
         }

@@ -35,6 +35,8 @@ namespace ProjectOrg
             Update();
         }
 
+        
+
        void Update()
         {
             var currentDesingWorks = ProjectOranizationDBEntities.GetContext().DesingWork.ToList();
