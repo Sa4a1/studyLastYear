@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="A21.LogInPage">
+    <VerticalStackLayout>
+      
+
+           <Image Source="Resources/Images/logo.jpg" WidthRequest="170 "/>
+
+            <Label Text="Авторизация" FontSize="40" HorizontalTextAlignment="Center" Margin="10,0,0,20"/>
+        <Label Text="Email" FontSize="30" Margin="10,0,0,0"/>
+        <Entry Placeholder="Введите вашу почту " HorizontalOptions="Start"  WidthRequest="360" x:Name="EmailEntr" FontSize="20" Margin="10,0,0,0"/>
+
+        <Label Text="Пароль " FontSize="30" Margin="10,0,0,0"/>
+        <Entry Placeholder="Введите пароль" Margin="10,0,0,0" HorizontalOptions="Start"  WidthRequest="360" x:Name="PasswordEntr" IsPassword="True" FontSize="20"/>
+        <Button x:Name="LogInBtn" Text="Авторизоваться" WidthRequest="300" BorderColor="Red" BackgroundColor="Red" HeightRequest="40" Margin="20, 10,10,10"  Clicked="LogInBtn_Clicked"/>
+        <Button x:Name="SingUpBtn"  Text="Зарегистрироватться" WidthRequest="300" HeightRequest="40" BorderColor="Red" BackgroundColor="White" BorderWidth="1" Margin="20, 10,10,10" TextColor="Red" Clicked="SingUpBtn_Clicked"/>
+    </VerticalStackLayout>
+</ContentPage>

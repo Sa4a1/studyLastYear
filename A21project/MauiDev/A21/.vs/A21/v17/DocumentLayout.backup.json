@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\singup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:singup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\cheker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:cheker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\singup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:singup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\traningspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:traningspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\traningspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:traningspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\models\\tranings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:models\\tranings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\teampage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:teampage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\teampage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:teampage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\models\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:models\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|d:\\\u043D\u0435 \u043B\u0435\u0437\u044C \u0443\u0431\u044C\u0451\u0442\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studylastyear\\a21project\\mauidev\\a21\\a21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12D00D20-E86B-445F-BA5F-A1513BE31B0E}|A21.csproj|solutionrelative:a21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AgIAAMEAAAAAAAAAAAApwNUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-19T17:33:02.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cheker.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Cheker.cs",
+              "RelativeDocumentMoniker": "Cheker.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Cheker.cs",
+              "RelativeToolTip": "Cheker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:07:37.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\AddPage.xaml.cs",
+              "RelativeDocumentMoniker": "AddPage.xaml.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\AddPage.xaml.cs",
+              "RelativeToolTip": "AddPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:18:16.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddPage.xaml",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\AddPage.xaml",
+              "RelativeDocumentMoniker": "AddPage.xaml",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\AddPage.xaml",
+              "RelativeToolTip": "AddPage.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwB4AAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T16:14:24.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:53:34.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:53:33.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:09:40.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:09:42.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T14:59:26.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TraningsPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\TraningsPage.xaml.cs",
+              "RelativeDocumentMoniker": "TraningsPage.xaml.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\TraningsPage.xaml.cs",
+              "RelativeToolTip": "TraningsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:13:06.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TraningsPage.xaml",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\TraningsPage.xaml",
+              "RelativeDocumentMoniker": "TraningsPage.xaml",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\TraningsPage.xaml",
+              "RelativeToolTip": "TraningsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T10:12:53.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeamPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\TeamPage.xaml.cs",
+              "RelativeDocumentMoniker": "TeamPage.xaml.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\TeamPage.xaml.cs",
+              "RelativeToolTip": "TeamPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:54:52.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeamPage.xaml",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\TeamPage.xaml",
+              "RelativeDocumentMoniker": "TeamPage.xaml",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\TeamPage.xaml",
+              "RelativeToolTip": "TeamPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T07:54:48.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tranings.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Models\\Tranings.cs",
+              "RelativeDocumentMoniker": "Models\\Tranings.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Models\\Tranings.cs",
+              "RelativeToolTip": "Models\\Tranings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:37:34.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirebaseService.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\FirebaseService.cs",
+              "RelativeDocumentMoniker": "FirebaseService.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\FirebaseService.cs",
+              "RelativeToolTip": "FirebaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:50:14.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Players.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Models\\Players.cs",
+              "RelativeDocumentMoniker": "Models\\Players.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Models\\Players.cs",
+              "RelativeToolTip": "Models\\Players.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:48:44.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:59:07.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "A21.csproj",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\A21.csproj",
+              "RelativeDocumentMoniker": "A21.csproj",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\A21.csproj",
+              "RelativeToolTip": "A21.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T05:56:28.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T19:51:59.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:48:33.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogInPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\LogInPage.xaml.cs",
+              "RelativeDocumentMoniker": "LogInPage.xaml.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\LogInPage.xaml.cs",
+              "RelativeToolTip": "LogInPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:36:30.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:26:18.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingUp.xaml.cs",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\SingUp.xaml.cs",
+              "RelativeDocumentMoniker": "SingUp.xaml.cs",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\SingUp.xaml.cs",
+              "RelativeToolTip": "SingUp.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:01:30.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogInPage.xaml",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\LogInPage.xaml",
+              "RelativeDocumentMoniker": "LogInPage.xaml",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\LogInPage.xaml",
+              "RelativeToolTip": "LogInPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T19:01:19.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T19:01:18.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingUp.xaml",
+              "DocumentMoniker": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\SingUp.xaml",
+              "RelativeDocumentMoniker": "SingUp.xaml",
+              "ToolTip": "D:\\\u041D\u0415 \u041B\u0415\u0417\u042C \u0423\u0411\u042C\u0401\u0422\\\u0443\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\123\\studyLastYear\\A21project\\MauiDev\\A21\\SingUp.xaml",
+              "RelativeToolTip": "SingUp.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T19:01:16.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

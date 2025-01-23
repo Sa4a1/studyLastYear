@@ -1,0 +1,85 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = A21
+build_property.ProjectDir = D:\НЕ ЛЕЗЬ УБЬЁТ\учёба\Учеба 4 курс\123\studyLastYear\A21project\MauiDev\A21\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[D:/НЕ ЛЕЗЬ УБЬЁТ/учёба/Учеба 4 курс/123/studyLastYear/A21project/MauiDev/A21/AddPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A21.AddPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AddPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AddPage.xaml
+
+[D:/НЕ ЛЕЗЬ УБЬЁТ/учёба/Учеба 4 курс/123/studyLastYear/A21project/MauiDev/A21/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A21.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/НЕ ЛЕЗЬ УБЬЁТ/учёба/Учеба 4 курс/123/studyLastYear/A21project/MauiDev/A21/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A21.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/НЕ ЛЕЗЬ УБЬЁТ/учёба/Учеба 4 курс/123/studyLastYear/A21project/MauiDev/A21/LogInPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A21.LogInPage.xaml
+build_metadata.AdditionalFiles.TargetPath = LogInPage.xaml
+build_metadata.AdditionalFiles.RelativePath = LogInPage.xaml
+
+[D:/НЕ ЛЕЗЬ УБЬЁТ/учёба/Учеба 4 курс/123/studyLastYear/A21project/MauiDev/A21/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A21.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/НЕ ЛЕЗЬ УБЬЁТ/учёба/Учеба 4 курс/123/studyLastYear/A21project/MauiDev/A21/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A21.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/НЕ ЛЕЗЬ УБЬЁТ/учёба/Учеба 4 курс/123/studyLastYear/A21project/MauiDev/A21/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A21.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/НЕ ЛЕЗЬ УБЬЁТ/учёба/Учеба 4 курс/123/studyLastYear/A21project/MauiDev/A21/SingUp.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A21.SingUp.xaml
+build_metadata.AdditionalFiles.TargetPath = SingUp.xaml
+build_metadata.AdditionalFiles.RelativePath = SingUp.xaml
+
+[D:/НЕ ЛЕЗЬ УБЬЁТ/учёба/Учеба 4 курс/123/studyLastYear/A21project/MauiDev/A21/TeamPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A21.TeamPage.xaml
+build_metadata.AdditionalFiles.TargetPath = TeamPage.xaml
+build_metadata.AdditionalFiles.RelativePath = TeamPage.xaml
+
+[D:/НЕ ЛЕЗЬ УБЬЁТ/учёба/Учеба 4 курс/123/studyLastYear/A21project/MauiDev/A21/TraningsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = A21.TraningsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = TraningsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = TraningsPage.xaml

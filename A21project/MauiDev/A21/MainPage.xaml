@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:A21"
+             Shell.FlyoutBehavior="Disabled"
+             x:Class="A21.MainPage">
+
+
+    <TabBar>
+        <Tab Title="Traninngs" Icon="calendar.png">
+            <ShellContent Route="TraningsPage" ContentTemplate="{DataTemplate local:TraningsPage}"/>
+        </Tab>
+        <Tab Title="InfoAboutTeam" Icon="team.png">
+            <ShellContent Route="TeamPage" ContentTemplate="{DataTemplate local:TeamPage}"/>
+        </Tab>
+
+    </TabBar>
+
+</Shell>

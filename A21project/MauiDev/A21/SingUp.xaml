@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="A21.SingUp"
+             Title="">
+    <StackLayout Orientation="Vertical">
+        <Image Source="Resources/Images/logo.jpg" WidthRequest="170 "/>
+        <Label Text="Регистрация" HorizontalOptions="Center" FontAttributes="Bold" FontSize="40"/>
+        <Label Text="Email" FontSize="25" Margin="0,20,0,0"/>
+        <Entry  HorizontalTextAlignment="Start" VerticalTextAlignment="Center" x:Name="EmailEntr" FontSize="20" Placeholder="Введите Email" MaxLength="20" Keyboard="Email"></Entry>
+        <Label Text="Пароль" FontSize="25" Margin="0,20,0,0"/>
+        <Entry HorizontalTextAlignment="Start" x:Name="PasswordEntr" VerticalOptions="Center" Placeholder="Введите пароль" IsPassword="True" Margin="0,20,0,0"/>
+        <Button Text="ЗАРЕГИСТРИРОВАТЬСЯ"  BackgroundColor="White" TextColor="Red" BorderWidth="1"  FontSize="20" BorderColor="Red" WidthRequest="300" x:Name="SignUpBtn" Clicked="SignUpBtn_Clicked" />
+    </StackLayout>
+</ContentPage>

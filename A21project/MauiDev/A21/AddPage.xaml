@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="A21.AddPage"
+             Title="AddPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Text="Выберите дату тренировки" Grid.Row="0" Grid.Column="0" HorizontalOptions="Center" FontSize="30"></Label>
+        <DatePicker x:Name="TrainingDatePicker" Grid.Row="1" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Start" WidthRequest="140" FontSize="30"/>
+
+        <Label Text="Выберите тип тренировки" Grid.Row="0" Grid.Column="1" HorizontalOptions="Center" FontSize="30"/>
+
+        <Picker x:Name="TypePicker" Title="Выберите тип" SelectedIndexChanged="TypePicker_SelectedIndexChanged"  Grid.Row="1" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center" HorizontalTextAlignment="Center" >
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>ОФП</x:String>
+                    <x:String>Игровая</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Button WidthRequest="200" Grid.Row="2" Grid.ColumnSpan="2" HeightRequest="50" Text="Добавить тренировку" Margin="0,40,0,0" Clicked="Button_Clicked"/>
+    </Grid>
+</ContentPage>
